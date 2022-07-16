@@ -27,6 +27,7 @@ usethis::use_git()
 create_github_token() #takes you to the github account on the web
 
 gitcreds::gitcreds_set()
+#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
 # Enter password or token: ghp_V0wsMNoda8pLTe3QqKZY34d1nB
 # -> Adding new credentials...
 # -> Removing credetials from cache...
